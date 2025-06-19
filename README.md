@@ -1,2 +1,3 @@
 # Parallel_Programming_Workshop
-My CUDA practice code
+My Parallel Programming practice code
+See all codes in master branch
