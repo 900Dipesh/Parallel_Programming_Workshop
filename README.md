@@ -1,2 +1,2 @@
-# cuda_practices
+# Parallel_Programming_Workshop
 My CUDA practice code
